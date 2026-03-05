@@ -1,0 +1,11 @@
+# Template for manual installs. post-install.sh writes a concrete file with absolute paths.
+[Desktop Entry]
+Type=Application
+Name=Gestion Salles
+Exec=/usr/bin/gestionsalles
+Icon=/opt/gestionsalles/lib/app/app_icon.png
+Terminal=false
+Categories=Education;
+StartupNotify=true
+StartupWMClass=com-gestion-salles-Main
+X-GNOME-WMClass=com-gestion-salles-Main
