@@ -80,6 +80,33 @@ If you package/distribute, see scripts and packaging docs:
 - `scripts/health-check.sh`
 - `src/main/assembly/zip.xml`
 
+## Screenshots
+
+Place screenshots in `docs/screenshots/` using these filenames:
+
+- `login.png`
+- `admin-dashboard.png`
+- `reservation-management.png`
+- `schedule-view.png`
+
+Then they will render automatically below:
+
+### Login
+
+![Login](docs/screenshots/login.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+### Reservation Management
+
+![Reservation Management](docs/screenshots/reservation-management.png)
+
+### Schedule View
+
+![Schedule View](docs/screenshots/schedule-view.png)
+
 ## Project Structure
 
 ```text
