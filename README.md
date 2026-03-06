@@ -81,4 +81,4 @@ For complete product, UX, architecture, and implementation details, see:
 Copyright (c) 2026 Abdelrahman Benmoulai.
 All rights reserved.
 
-This repository is published for documentation and evaluation purposes only. No permission is granted to copy, reuse, modify, redistribute, or integrate this codebase without explicit prior written authorization from the author.
+This repository is published for documentation and presentation purposes only. No permission is granted to copy, reuse, modify, redistribute, or republish the documentation, screenshots, diagrams, or any other materials without explicit prior written authorization from the author.
